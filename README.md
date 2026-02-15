@@ -11,7 +11,7 @@
   </ul>
 </h2>
 <h2>
-  Funcionalidades
+  Funcionalidades:
   <ul>
     <li>Galeria de Fotos: Exibição dos produtos mais vendidos da confeitaria.</li>
     <li>Botão de Encomenda: Link direto para o WhatsApp para agilizar o atendimento.</li>
