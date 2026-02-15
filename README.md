@@ -3,7 +3,18 @@
   com foco em design visual atraente e facilidade de contato para encomendas.</h3>
 <img src="https://github.com/GiovanniCost/br.com.Confeitaria/blob/main/assets/Home%20Doce%20Encanto.png?raw=true alt"300"">  
 
-<a href: >
-  🚀 Demonstração
-Acesse o site online: Clique aqui para visitar a Doce Encanto
-</a>
+<h2>
+  Tecnologias utilizadas:
+  <ul>
+    <li>CSS</li>
+    <li>HTML</li>
+  </ul>
+</h2>
+<h2>
+  Funcionalidades
+  <ul>
+    <li>Galeria de Fotos: Exibição dos produtos mais vendidos da confeitaria.</li>
+    <li>Botão de Encomenda: Link direto para o WhatsApp para agilizar o atendimento.</li>
+    <li>Design Responsivo: O site se adapta perfeitamente a celulares e computadores.</li>
+  </ul>
+</h2>
